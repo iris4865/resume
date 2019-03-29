@@ -8,7 +8,7 @@
 - [Mirero System](http://www.mirero.co.kr/)(2017. 08 ~ 2019. 03)
   - 소프트웨어 개발자(C#, WPF)
 - [Huins](http://www.huins.com)(2016. 12 ~ 2017. 01)
-  - 
+  - 인턴
 
 ## Projects
 
