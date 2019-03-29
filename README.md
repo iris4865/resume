@@ -11,6 +11,8 @@
   - 인턴
 
 ## Projects
+### Company
+### Personal
 
 ## Skills
 
