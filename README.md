@@ -19,9 +19,25 @@
 - 기간: 2018. 10 ~ 2019. 03
 - 역할: 클리이언트 딥러닝 학습UI 설계, 학습 서비스 설계 및 개발
 - 개발 언어: C#, WPF
-- 라이브리러: [Akka.net](https://github.com/akkadotnet/akka.net), [Dapper](https://github.com/StackExchange/Dapper), [OpenCvSharp](https://github.com/shimat/opencvsharp)
+- 주요 라이브리러: [Akka.net](https://github.com/akkadotnet/akka.net), [Dapper](https://github.com/StackExchange/Dapper), [OpenCvSharp](https://github.com/shimat/opencvsharp)
 - 학습 프레임워크: NvCaffe, DigitsCaffe, Tensorflow, Keras, PyTorch
 ### Personal
+---
+#### Totolist
+- 개발동기: 프로그래머스 섬머코딩 2019 - 웹/서버 분야 지원
+- 기간: 2019. 05. 16 ~ 2019. 05. 20
+- 개발 언어: Javascript, Python
+- 주요 라이브러리
+  - [vue.js](https://github.com/vuejs/vue), [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue), [Flask](https://github.com/pallets/flask/), [Flask-Cors](https://github.com/corydolphin/flask-cors), [Flask-SQLAlchemy](https://github.com/pallets/flask-sqlalchemy/)
+- 학습
+  - Front-End와 Back-End의 차이와 개발방법
+  - nginx - vue - flask연결
+  - Docker를 이용하여 Heroku에 배포
+- 향후 학습 예정
+  - 테스트코드를 위한 TDD학습
+  - Vue에서 코드 재사용을 위해 HTML 템플릿화
+  - 로그기록을 위한 로그시스템 구축
+  - Github과 Docker Hub를 이용한 자동화 구축
 
 ## Skills
 
