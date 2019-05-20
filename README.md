@@ -26,7 +26,6 @@
 #### Totolist
 ![view](https://github.com/iris4865/resume/blob/master/images/todolist/todolist.jpg)
 - 기간: 2019. 05. 16 ~ 2019. 05. 20
-- 개발동기: 프로그래머스 섬머코딩 2019 - 웹/서버 분야 지원
 - 개발 언어: Javascript, Python
 - 주요 라이브러리
   - [Vue.js](https://github.com/vuejs/vue), [BootstrapVue](https://github.com/bootstrap-vue/bootstrap-vue), [Flask](https://github.com/pallets/flask/), [Flask-SQLAlchemy](https://github.com/pallets/flask-sqlalchemy/)
