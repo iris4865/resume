@@ -5,11 +5,11 @@
 - Github: [github.com/iris4865](https://github.com/iris4865)
 
 ## Skills
-- Language: C#, Python, Javascript
-- Framework/Library: Akka.NET, Flask, Vue
-- Database: Mysql, OracleDB
-- Tool / DevOps: Github, Docker
-- Environment: Linux, Windows
+- **Language**: C#, Python, Javascript
+- **Framework/Library**: Akka.NET, Flask, Vue
+- **Database**: Mysql, OracleDB
+- **Tool / DevOps**: Github, Docker
+- **Environment**: Linux, Windows
 
 ## Experience
 - [Mirero System](http://www.mirero.co.kr/)(2017. 08 ~ 2019. 03)
