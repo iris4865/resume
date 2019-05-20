@@ -1,4 +1,6 @@
 # 김문성(Kim munseong)
+매일 새로운 것을 배우고 성장하고 싶습니다.
+
 
 ## Contact
 - Mail: iris4865@gmail.com
