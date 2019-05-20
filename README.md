@@ -29,7 +29,7 @@
 - 개발동기: 프로그래머스 섬머코딩 2019 - 웹/서버 분야 지원
 - 개발 언어: Javascript, Python
 - 주요 라이브러리
-  - [vue.js](https://github.com/vuejs/vue), [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue), [Flask](https://github.com/pallets/flask/), [Flask-Cors](https://github.com/corydolphin/flask-cors), [Flask-SQLAlchemy](https://github.com/pallets/flask-sqlalchemy/)
+  - [vue.js](https://github.com/vuejs/vue), [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue), [Flask](https://github.com/pallets/flask/), [Flask-SQLAlchemy](https://github.com/pallets/flask-sqlalchemy/)
 - 학습
   - Front-End와 Back-End의 차이와 개발방법
   - nginx - vue - flask연결
