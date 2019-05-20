@@ -4,6 +4,18 @@
 - Mail: iris4865@gmail.com
 - Github: [github.com/iris4865](https://github.com/iris4865)
 
+## Skills
+### Language
+- C#, Python, Javascript
+### Framework/Library
+- Akka.NET, Flask, Vue
+### Database
+- Mysql, OracleDB
+### Tool / DevOps
+- Github, Docker
+### Environment
+- Linux, Windows
+
 ## Experience
 - [Mirero System](http://www.mirero.co.kr/)(2017. 08 ~ 2019. 03)
   - 소프트웨어 개발자(C#, WPF)
@@ -38,8 +50,6 @@
   - Vue에서 코드 재사용을 위해 HTML 템플릿화
   - 로그기록을 위한 로그시스템 구축
   - Github과 Docker Hub를 이용한 자동화 구축
-
-## Skills
 
 ## Education
 - 강릉원주대학교 컴퓨터공학과 졸업(2011 ~ 2018)
