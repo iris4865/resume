@@ -1,7 +1,9 @@
 # 김문성(Kim munseong)
 
 데이터 중심의 설계와 고객이 원하는 가치있는 코드를 개발하려고 노력합니다.
+
 매일 새로운 것을 배우고 성장하려고 합니다.
+
 WET보다 DRY코드를 좋아합니다.
 - WET: Write Everything Twice
 - DRY: Don't Repeat Yourself
