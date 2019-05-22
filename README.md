@@ -1,15 +1,18 @@
 # 김문성(Kim munseong)
-
-데이터 중심의 설계와 고객이 원하는 가치있는 코드를 개발하려고 노력합니다.  
-매일 새로운 것을 배우고 성장하려고 합니다.  
-WET코드보다 DRY코드를 좋아합니다.
-- WET: Write Everything Twice
-- DRY: Don't Repeat Yourself
-
+매일 새로운 것을 배우고 성장하려고 합니다.
 
 ## Contact
 - Mail: iris4865@gmail.com
 - Github: [github.com/iris4865](https://github.com/iris4865)
+
+
+## How to Develop
+설계를 기준으로 데이터를 맞추는 것이 아닌 데이터를 기준으로 설계합니다.  
+완벽한 코드가 아닌 고객과의 충분한 소통으로 가치있는 코드를 개발합니다.  
+WET코드보다 DRY코드를 좋아합니다.
+- WET: Write Everything Twice
+- DRY: Don't Repeat Yourself
+
 
 ## Skills
 - **Language**
