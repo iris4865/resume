@@ -47,7 +47,7 @@ WET코드보다 DRY코드를 좋아합니다.
 ---
 #### Totolist
 ![view](https://github.com/iris4865/resume/blob/master/images/todolist/todolist.jpg)
-- 기간: 2019. 05. 16 ~ 2019. 05. 20
+- 기간: 2019. 05 ~ 2019. 05
 - 개발 언어: Javascript, Python
 - 주요 라이브러리
   - [Vue.js](https://github.com/vuejs/vue), [BootstrapVue](https://github.com/bootstrap-vue/bootstrap-vue), [Flask](https://github.com/pallets/flask/), [Flask-SQLAlchemy](https://github.com/pallets/flask-sqlalchemy/)
