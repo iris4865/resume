@@ -39,7 +39,7 @@ WET코드보다 DRY코드를 좋아합니다.
 ![login](https://github.com/iris4865/resume/blob/master/images/mls/MLS_Login.jpg)
 - 소개: 미래로 딥러닝 솔루션
 - 기간: 2018. 10 ~ 2019. 03
-- 인원: 11
+- 인원: 11명
 - 역할: 클리이언트 딥러닝 학습UI 설계, 학습 서비스 설계 및 개발
 - 개발 언어: C#, WPF
 - 주요 라이브리러: [Akka.net](https://github.com/akkadotnet/akka.net), [Dapper](https://github.com/StackExchange/Dapper), [OpenCvSharp](https://github.com/shimat/opencvsharp)
