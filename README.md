@@ -55,11 +55,11 @@ WET코드보다 DRY코드를 좋아합니다.
   - Front-End와 Back-End의 차이와 개발방법
   - nginx - vue - flask연결
   - Docker를 이용하여 Heroku에 배포
+  - Github과 Docker Hub를 이용한 자동화 구축
 - 향후 학습 예정
   - 테스트코드를 위한 TDD학습
-  - Vue에서 코드 재사용을 위해 HTML 템플릿화
   - 로그기록을 위한 로그시스템 구축
-  - Github과 Docker Hub를 이용한 자동화 구축
+  - Docker Hub와 Heroku 혹은 AWS를 이용한 자동화 구축(Webhook)
 
 ## Education
 - 강릉원주대학교 컴퓨터공학과 졸업(2011 ~ 2018)
