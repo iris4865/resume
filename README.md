@@ -7,9 +7,10 @@
 
 
 ## How to Develop
-설계를 기준으로 데이터를 맞추는 것이 아닌 데이터를 기준으로 설계합니다.  
+이론보다 데이터를 기반하여 설계합니다.  
 완벽한 코드가 아닌 고객과의 충분한 소통으로 가치있는 코드를 개발합니다.  
-WET코드보다 DRY코드를 좋아합니다.
+WET코드보다 DRY코드를 좋아합니다.  
+서버 프로그래머를 희망합니다.
 - WET: Write Everything Twice
 - DRY: Don't Repeat Yourself
 
