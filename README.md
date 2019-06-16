@@ -17,9 +17,9 @@ WET코드보다 DRY코드를 좋아합니다.
 
 ## Skills
 - **Language**
-  - C#, Python, Javascript
+  - Python, Javascript, C#
 - **Framework/Library**
-  - Akka.NET, Flask, Vue
+  - Flask, Vue, Akka.NET
 - **Database**
   - Mysql, OracleDB
 - **Tool / DevOps**
