@@ -28,7 +28,7 @@ WET코드보다 DRY코드를 좋아합니다.
   - Linux, Windows
 
 ## Experience
-- [Revol](https://revol.io/)(2019. 09 ~ )
+- [Revol](https://revol.io/)(2019. 09 ~ now)
   - 소프트웨어 개발자(Scala)
 - [Mirero System](http://www.mirero.co.kr/)(2017. 08 ~ 2019. 03)
   - 소프트웨어 개발자(C#, WPF)
