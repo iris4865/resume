@@ -28,7 +28,7 @@ WET코드보다 DRY코드를 좋아합니다.
   - Linux, Windows
 
 ## Experience
-- [Revol](https://revol.io/)(2019. 09 ~ now)
+- [Revol](https://revol.io/)(2019. 09 ~ 2020. 03)
   - 소프트웨어 개발자(Scala)
 - [Mirero System](http://www.mirero.co.kr/)(2017. 08 ~ 2019. 03)
   - 소프트웨어 개발자(C#, WPF)
@@ -44,7 +44,7 @@ WET코드보다 DRY코드를 좋아합니다.
 - 설명: 이미지를 하나의 클라이언트에서 분류, 학습, 판정하는 솔루션
 - 기간: 2018. 10 ~ 2019. 03
 - 인원: 11명
-- 역할: 클리이언트 딥러닝 학습UI 설계, 학습 서비스 설계 및 신규개발, 학습 서비스(C#)에서 딥러닝 프레임워크(Python) 호출 및 실행, 여러개의 학습 프레임워크 Interface 개발
+- 역할: 클라이언트 딥러닝 학습UI 설계, 학습 서비스 설계 및 신규개발, 학습 서비스(C#)에서 딥러닝 프레임워크(Python) 호출 및 실행, 여러개의 학습 프레임워크 Interface 개발
 - 개발 언어: C#, WPF, Python
 - 주요 라이브리러: [Akka.net](https://github.com/akkadotnet/akka.net), [PythonNET](https://github.com/pythonnet/pythonnet), [Dapper](https://github.com/StackExchange/Dapper), [OpenCvSharp](https://github.com/shimat/opencvsharp)
 - 학습 프레임워크: NvCaffe, DigitsCaffe, Tensorflow, Keras, PyTorch
